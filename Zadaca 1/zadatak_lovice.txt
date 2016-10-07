@@ -1,0 +1,11 @@
+Napišite mrežne aplikacije  KLIJENT i SERVER koji omogućavaju KLIJENT-ima igranje lovice na serveru.
+
+Prilikom pokretanja server učitava labirint iz datoteke labirint.txt gdje # označava zid, . prazno polje,
+X jednog i O drugog igrača.
+
+Igrači igraju naizmjence i mogu vući samo dopuštene poteze.
+
+Igrač se svaki put mora pomaknuti i igrač koji bježi je izgubio
+kad se nalazi na istom polju kao i lovac.
+
+Igrači mogu i odustati od igre.
